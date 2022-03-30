@@ -1,0 +1,22 @@
+.my-img {
+    max-height: 300px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
+article {
+    align-content: center;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.my-header {
+    text-align: center;
+    text-decoration: underline;
+    font-weight:bold;
+}
