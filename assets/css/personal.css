@@ -32,3 +32,25 @@ h4 {
     margin-right: auto;
     border-radius: 15px;
 }
+
+.img-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    align-content: stretch;
+}
+a{
+    color:aqua;
+    font-weight: bold;
+}
+
+.exp {
+    text-decoration: underline;
+}
+
+h3 {
+    color: lightgreen;
+    font-weight: bold;
+}
